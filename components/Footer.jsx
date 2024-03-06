@@ -1,5 +1,5 @@
 import React from "react";
-// import { IoCarSport } from "react-icons/io5";
+
 const Footer = () => {
   return (
     <div className=" h-5/6 w-screen lg:flex bg-gray-900 text-white border-2 border-black rounded-md">

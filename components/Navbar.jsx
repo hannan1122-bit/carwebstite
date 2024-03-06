@@ -1,5 +1,5 @@
 import React from 'react'
-// import { IoCarSport } from "react-icons/io5";
+
 import Link from 'next/link';
 const  Navbar = () => {
   return (
