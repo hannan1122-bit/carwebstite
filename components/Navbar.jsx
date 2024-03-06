@@ -10,9 +10,9 @@ const  Navbar = () => {
     
         <ul className="flex px items-center justify-center  w-screen ">
            <Link href="/" className="hover:border-2 hover:border-white hover rounded-md"> <li className="px-3 ">HOME</li></Link>
-           <Link href="/NEWMODELS" className="hover:border-2 hover:border-white hover rounded-md"><li className="px-2">NEW MODELS</li></Link>
-           <Link href="/OLDMODELS" className="hover:border-2 hover:border-white hover rounded-md" ><li className="px-3">OLD MODELS</li></Link>
-           <Link href="/CONTACTUS" className="hover:border-2 hover:border-white hover rounded-md"> <li className="px-2">CONTACT US</li></Link>
+           <Link href="/new" className="hover:border-2 hover:border-white hover rounded-md"><li className="px-2">NEW MODELS</li></Link>
+           <Link href="/old" className="hover:border-2 hover:border-white hover rounded-md" ><li className="px-3">OLD MODELS</li></Link>
+           <Link href="/contact" className="hover:border-2 hover:border-white hover rounded-md"> <li className="px-2">CONTACT US</li></Link>
                   </ul>
    
         
