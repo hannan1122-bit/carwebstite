@@ -1,11 +1,11 @@
 import React from 'react'
-import { IoCarSport } from "react-icons/io5";
+// import { IoCarSport } from "react-icons/io5";
 import Link from 'next/link';
 const  Navbar = () => {
   return (
     <div className="flex   h-14 font-serif font-bold bg-slate-900 text-white border-black border-2 rounded-md">
     <div className="flex items-center justify-center pl-3 pr-1">
-    <IoCarSport className="h-14 w-10" />
+    {/* <IoCarSport className="h-14 w-10" /> */}
     </div>
     
         <ul className="flex px items-center justify-center  w-screen ">
